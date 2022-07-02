@@ -1,0 +1,4 @@
+#output_image > img{
+  border: 2px solid DeepPink;
+  border-radius: 5px;
+}
