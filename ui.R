@@ -1,5 +1,5 @@
 
-# source('helpers.R')
+source('helpers.R')
 
 shinyUI(
   dashboardPage(
